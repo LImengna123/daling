@@ -17,7 +17,7 @@
 git clone https://github.com/LImengna123/daling.git
 
 >##### 安装依赖
-nom install
+npm install
 
  >#####开启本地服务器localhost:8080
 npm run dev
